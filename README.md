@@ -1,6 +1,6 @@
 - 🤠 Howdy, I’m @ganymedia
 - 🌌 I’m interested in: networking, scripting, automation, programming, machine learning, data science
-- 📚 I’m currently learning: basic scripting, refining datasets, giga-deep into advanced networking fundamentals
+- 📚 I’m currently learning: basic scripting, refining datasets, network automation
 - ⛓ I’m looking to collaborate on anything, really
 - 🛰️ How to reach me: [LinkedIn](https://www.linkedin.com/in/austin-pol/)
 
